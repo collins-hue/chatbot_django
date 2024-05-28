@@ -1,7 +1,7 @@
 # chatbot_django
 This is an ongoing django chatbot,.
 # Step 1: Fine-Tuning the Model 
-If you want your chatbot to be more specific to your domain, you might consider fine-tuning a pre-trained model on your custom dataset. This involves more advanced machine learning techniques and is beyond the scope of this basic guide. However, here are the general steps:
+If you want your chatbot to be more specific to your domain, you might consider fine-tuning a pre-trained model on your custom dataset. This involves more advanced machine learning techniques and is beyond the scope of this basic guide.
 
 Prepare Your Dataset: Collect and preprocess the conversational data relevant to your domain.
 
